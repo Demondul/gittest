@@ -1,2 +1,1 @@
-I'm Carlo, born and raised in Philippines, moved to USA last 5 yrs ago and learning Git at Coding Dojo. 
-My favorite movie of all time is The Matrix.
+I'm Carlo, born and raised in Philippines, moved to USA last 5 yrs ago and learning Git at Coding Dojo.
